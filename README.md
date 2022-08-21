@@ -58,7 +58,7 @@ $ npm i           # to install all the needed dependencies
 $ npm start
 ```
 
-> the application will be up and running at http://localhost:3000/
+> the application will be up and running at https://tele-chat.vercel.app/
 
 ## Demo :robot:
 
